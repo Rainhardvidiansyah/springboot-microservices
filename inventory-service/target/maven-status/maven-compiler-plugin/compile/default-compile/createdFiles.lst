@@ -1,0 +1,6 @@
+com\rainhard\inventory\service\service\InventoryService.class
+com\rainhard\inventory\service\repository\InventoryRepository.class
+com\rainhard\inventory\service\dto\response\InventoryResponseDto.class
+com\rainhard\inventory\service\model\Inventory.class
+com\rainhard\inventory\service\controller\InventoryController.class
+com\rainhard\inventory\service\InventoryServiceApplication.class

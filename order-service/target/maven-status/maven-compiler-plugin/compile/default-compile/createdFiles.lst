@@ -1,0 +1,10 @@
+com\rainhard\order\service\config\WebClientConfig.class
+com\rainhard\order\service\model\OrderLineItems.class
+com\rainhard\order\service\model\Order.class
+com\rainhard\order\service\repository\OrderRepository.class
+com\rainhard\order\service\dto\response\InventoryResponse.class
+com\rainhard\order\service\OrderServiceApplication.class
+com\rainhard\order\service\dto\request\OrderRequestDto.class
+com\rainhard\order\service\controller\OrderController.class
+com\rainhard\order\service\service\OrderService.class
+com\rainhard\order\service\dto\request\OrderLineItemsDto.class
